@@ -5,7 +5,6 @@
 * class - OOP에서의 클래스가 아닌, 무언가의 종류를 뜻함
 * classification (분류) - 위의 클래스를 구별해 내는 문제
 * binary classification (이진 분류) - 위의 분류 중 두 종류중 하나를 구별하는 분류
-
 * smaple - 한 개체 (ex: 생선 한마리 등)
 * feature (특성) - 각 샘플의 특징 (ex: 생선의 무게나 길이 등)
 
