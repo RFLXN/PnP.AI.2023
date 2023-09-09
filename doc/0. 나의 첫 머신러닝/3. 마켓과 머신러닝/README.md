@@ -32,7 +32,7 @@ scikit-learn에서 이 데이터들을 이용하기위해서는 길이와 무게
 length = bream_length + smelt_length
 weight = bream_weight + smelt_weight
 
-# 리스트 컴컴프리헨션을 이용해 길이와 무게 데이터를 2차원 리스트로 합침
+# 리스트 컴프리헨션을 이용해 길이와 무게 데이터를 2차원 리스트로 합침
 fish_data = [[l, w] for l, w in zip(length, weight)]
 ```
 
@@ -62,7 +62,7 @@ kn.score(fish_data, fish_target)
 
 위에서 훈련한 모델을 통해 새로운 데이터 (생선의 무게와 길이)가 주어졌을 때, 이 데이터가 무엇인지를 예측 가능하다.
 ```python
-kn.predict([30, 600])
+kn.predict([[30, 600]])
 
 # output: [1] -> 1은 도미로 예측했다는 뜻
 ```
