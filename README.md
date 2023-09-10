@@ -7,8 +7,8 @@
     2. [코랩과 주피터 노트북](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/0.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2.%20%EC%BD%94%EB%9E%A9%EA%B3%BC%20%EC%A3%BC%ED%94%BC%ED%84%B0%20%EB%85%B8%ED%8A%B8%EB%B6%81) ✅
     3. [마켓과 머신러닝](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/0.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/3.%20%EB%A7%88%EC%BC%93%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D) ✅
 1. [데이터 다루기](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
-    1. [훈련 세트와 테스트 세트](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/1.%20%ED%9B%88%EB%A0%A8%20%EC%84%B8%ED%8A%B8%EC%99%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%B8%ED%8A%B8)
-    2. [데이터 전처리](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)
+    1. [훈련 세트와 테스트 세트](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/1.%20%ED%9B%88%EB%A0%A8%20%EC%84%B8%ED%8A%B8%EC%99%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%B8%ED%8A%B8) ✅
+    2. [데이터 전처리](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC) ✅
 
 ### Not yet
 
