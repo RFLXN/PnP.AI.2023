@@ -142,4 +142,8 @@ show()
 
 단순한 1차 방정식보다 2차 방정식이 훨씬 더 정확한 것을 볼 수 있다.
 
-이런식으로 다항으로 학습한 선형 회귀를 polynomial regression(다항회귀) 라고 한다.   
+이런식으로 다항으로 학습한 선형 회귀를 polynomial regression(다항회귀) 라고 한다. 
+
+</br></br></br></br>
+
+[다음 (2-3. 특성 공학과 규제) ->](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/2.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C/3.%20%ED%8A%B9%EC%84%B1%20%EA%B3%B5%ED%95%99%EA%B3%BC%20%EA%B7%9C%EC%A0%9C)
