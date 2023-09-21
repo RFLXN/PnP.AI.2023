@@ -17,11 +17,13 @@
     2. [선형 회귀](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/2.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C/2.%20%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80) ✅
     3. [특성 공학과 규제](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/2.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C/3.%20%ED%8A%B9%EC%84%B1%20%EA%B3%B5%ED%95%99%EA%B3%BC%20%EA%B7%9C%EC%A0%9C) ✅
 
-### Not yet
+### WEEK 3
 
 3. [다양한 분류 알고리즘](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/3.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-    1. [로지스틱 회귀](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/3.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1.%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80)
-    2. [확률적 경사 하강법](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/3.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2.%20%ED%99%95%EB%A5%A0%EC%A0%81%20%EA%B2%BD%EC%82%AC%20%ED%95%98%EA%B0%95%EB%B2%95)
+    1. [로지스틱 회귀](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/3.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1.%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80) ✅
+    2. [확률적 경사 하강법](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/3.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2.%20%ED%99%95%EB%A5%A0%EC%A0%81%20%EA%B2%BD%EC%82%AC%20%ED%95%98%EA%B0%95%EB%B2%95) ✅
+### Not yet
+
 4. [트리 알고리즘](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [결정 트리](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1.%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC)
     2. [교차 검증과 그리드 서치](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2.%20%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D%EA%B3%BC%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EC%84%9C%EC%B9%98)
