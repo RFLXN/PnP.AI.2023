@@ -105,6 +105,8 @@ dtd.score(input_test, target_test)
 ![tree3.png](https://raw.githubusercontent.com/RFLXN/PnP.AI.2023/main/img/4-1/tree3.png)
 
 위와 같고, 혼자 주황색으로 표시되는 노드를 따라가 보면
+
 * sugar > 1.625
 * alcohol <= 11.025
+
 를 만족하는 샘플만 화이트 와인으로 예측한다는 것을 알 수 있다.
