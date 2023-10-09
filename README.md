@@ -28,9 +28,7 @@
 4. [트리 알고리즘](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     1. [결정 트리](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1.%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC) ✅
     2. [교차 검증과 그리드 서치](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2.%20%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D%EA%B3%BC%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EC%84%9C%EC%B9%98) ✅
-
-### Not yet
-    3. [트리의 앙상블](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/3.%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94)
+    3. [트리의 앙상블](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/4.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/3.%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94) ✅
 
 ### WEEK 5
 5. [비지도 학습](https://github.com/RFLXN/PnP.AI.2023/tree/main/doc/5.%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5)
